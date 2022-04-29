@@ -1,0 +1,1 @@
+2018_kakao_blind
