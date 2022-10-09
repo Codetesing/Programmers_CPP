@@ -1,3 +1,3 @@
-##For DB Coding test
+For DB Coding test
 
 lang : oracle
