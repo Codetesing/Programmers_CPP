@@ -1,0 +1,2 @@
+
+2022_KAKAO_BLIND
