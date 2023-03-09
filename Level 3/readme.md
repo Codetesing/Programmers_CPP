@@ -1,5 +1,3 @@
 Programmers
 
 Level 3
-
------------
